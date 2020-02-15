@@ -2,4 +2,4 @@
 
 ## Day 1 -
 
-[Youtube live Coing Link](https://www.youtube.com/watch?v=R3NOxN_1y1A)
+[Youtube live Coding Link](https://www.youtube.com/watch?v=R3NOxN_1y1A)

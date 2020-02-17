@@ -11,7 +11,7 @@
 [Youtube live Coding Link](https://youtu.be/xpUMAFeWNGg)
 
 ## Day 3 - 
-5 Miscellaneous Algo Problems 
+4 Miscellaneous Algo Problems 
 
 [Youtube live Coding Link](https://youtu.be/gKuRuvO9x_I)
 

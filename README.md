@@ -15,4 +15,9 @@
 
 [Youtube live Coding Link](https://youtu.be/gKuRuvO9x_I)
 
+## Day 4 - 
+11 Miscellaneous Algo Problems 
+
+[Youtube live Coding Link](https://youtu.be/HNQzGTukOHs)
+
 

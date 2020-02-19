@@ -21,7 +21,7 @@
 [Youtube live Coding Link](https://youtu.be/HNQzGTukOHs)
 
 ## Day 5 - 
-8 Miscellaneous Algo Problems 
+8 Data Structure Problems 
 
 [Youtube live Coding Link](https://www.youtube.com/watch?v=V7iDkiX5W5o)
 

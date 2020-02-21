@@ -30,4 +30,9 @@
 
 [Youtube live Coding ](https://youtu.be/VPGqYbwqzQc)
 
+## Day 6 - 
+3 Data Structure Problems 
+
+[Youtube live Coding ](https://youtu.be/HkPtfkjEyRk)
+
 

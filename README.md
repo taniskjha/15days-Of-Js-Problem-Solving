@@ -36,7 +36,7 @@
 [Youtube live Coding ](https://youtu.be/HkPtfkjEyRk)
 
 ## Day 8 - 
-3 Data Structure Problems 
+3 String Manipulation Problems 
 
 [Youtube live Coding ](https://youtu.be/QYl_jC2-MHo)
 

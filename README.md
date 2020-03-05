@@ -55,3 +55,22 @@
 
 [Youtube live Coding ](https://youtu.be/EOSLpQjD-9g)
 
+## Day 12 - 
+3 DS Problem
+
+[Youtube live Coding ](https://youtu.be/EOSLpQjD-9g)
+
+## Day 13 - 
+3 DS Problem
+
+[Youtube live Coding ](https://youtu.be/EOSLpQjD-9g)
+
+## Day 14 - 
+2 arrays Problems
+
+[Youtube live Coding ](https://youtu.be/EOSLpQjD-9g)
+
+## Day 15 - 
+2 array Problem
+
+[Youtube live Coding ](https://youtu.be/EOSLpQjD-9g)
